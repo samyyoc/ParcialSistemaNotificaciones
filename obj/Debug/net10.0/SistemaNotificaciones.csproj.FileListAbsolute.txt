@@ -1,0 +1,14 @@
+C:\REPGITHUB\SistemaNotificaciones\bin\Debug\net10.0\SistemaNotificaciones.exe
+C:\REPGITHUB\SistemaNotificaciones\bin\Debug\net10.0\SistemaNotificaciones.deps.json
+C:\REPGITHUB\SistemaNotificaciones\bin\Debug\net10.0\SistemaNotificaciones.runtimeconfig.json
+C:\REPGITHUB\SistemaNotificaciones\bin\Debug\net10.0\SistemaNotificaciones.dll
+C:\REPGITHUB\SistemaNotificaciones\bin\Debug\net10.0\SistemaNotificaciones.pdb
+C:\REPGITHUB\SistemaNotificaciones\obj\Debug\net10.0\SistemaNotificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPGITHUB\SistemaNotificaciones\obj\Debug\net10.0\SistemaNotificaciones.AssemblyInfoInputs.cache
+C:\REPGITHUB\SistemaNotificaciones\obj\Debug\net10.0\SistemaNotificaciones.AssemblyInfo.cs
+C:\REPGITHUB\SistemaNotificaciones\obj\Debug\net10.0\SistemaNotificaciones.csproj.CoreCompileInputs.cache
+C:\REPGITHUB\SistemaNotificaciones\obj\Debug\net10.0\SistemaNotificaciones.dll
+C:\REPGITHUB\SistemaNotificaciones\obj\Debug\net10.0\refint\SistemaNotificaciones.dll
+C:\REPGITHUB\SistemaNotificaciones\obj\Debug\net10.0\SistemaNotificaciones.pdb
+C:\REPGITHUB\SistemaNotificaciones\obj\Debug\net10.0\SistemaNotificaciones.genruntimeconfig.cache
+C:\REPGITHUB\SistemaNotificaciones\obj\Debug\net10.0\ref\SistemaNotificaciones.dll
